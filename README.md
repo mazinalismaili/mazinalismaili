@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mazinalismaili
 - 👀 I’m interested in anything new that makes me wonder!
-- 🌱 I’m currently learning Djnago.
+- 🌱 I’m currently learning ASP.NET Core.
 - 💞️ I’m looking to collaborate on small/opensource projects
 - 📫 How to reach me: DM
 
